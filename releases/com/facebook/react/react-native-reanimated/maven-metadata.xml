@@ -3,12 +3,11 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-reanimated</artifactId>
   <versioning>
-    <latest>1.13.3-jitsi-9957368</latest>
-    <release>1.13.3-jitsi-9957368</release>
+    <latest>1.13.3-jitsi-10544300</latest>
+    <release>1.13.3-jitsi-10544300</release>
     <versions>
-      <version>1.13.3-jitsi-9957090</version>
-      <version>1.13.3-jitsi-9957368</version>
+      <version>1.13.3-jitsi-10544300</version>
     </versions>
-    <lastUpdated>20220226102128</lastUpdated>
+    <lastUpdated>20220505084330</lastUpdated>
   </versioning>
 </metadata>
